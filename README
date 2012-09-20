@@ -1,9 +1,14 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2347
 
+[GitHub]
+
+The latest dev version of Trinity and screenshots can be downloaded from GitHub Homepage:
+
+https://github.com/wesleyche/Trinity
+
 [Introduction]
 
-This small plugin is just an IDE manager to control the three plugins open and close, and build them into a great IDE which works like the Source Insignt.
-I will just update trinity.vim file only since V1.3 and above.
+The Trinity plugin manages Source Explorer, Taglist and NERD Tree, and build them as a great IDE which works like the "Source Insignt".
 
 [Features]
 
@@ -20,5 +25,4 @@ http://www.vim.org/scripts/script.php?script_id=1658
 
 [Declaration]
 
-In order to build such an IDE that implement the main functions(function list, definition and context explorer, file brower), I had modified the source code of 'NERD_tree.zip 2.13.0'. You would note the tag named 'CHE Wenlong delete/add  for trinity.vim' in the NERD_tree.vim.
-
+In order to build such an IDE that implement the main functions(function list, definition and context explorer, file brower), I had modified the source code of 'NERD_tree.zip 2.13.0'. You would note the comments which begin with 'Wenlong Che add/delete for trinity.vim' in the NERD_tree.vim.
